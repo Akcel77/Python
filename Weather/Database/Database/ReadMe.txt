@@ -1,0 +1,1 @@
+Either put a copy of the certificate and key into this directory or modify the path in the Python code to point to the cert and key in another directory.
